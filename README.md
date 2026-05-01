@@ -22,19 +22,6 @@ al/sat sinyali üreten ve simülasyon yapan trading botu.
 
 Python · yfinance · Pandas · Plotly · Streamlit
 
-## 📁 Proje Yapısı
-
-trading-bot-01-rsi/
-├── src/
-│   ├── data.py          ← veri çekme
-│   ├── indicators.py    ← RSI hesaplama  
-│   └── simulation.py    ← sermaye simülasyonu
-├── app/
-│   └── app.py           ← Streamlit dashboard
-├── requirements.txt
-└── README.md
-
-
 ## Nasıl Çalıştırılır?
 
 
@@ -43,6 +30,11 @@ streamlit run app/app.py
 
 
 ## Demo
+
+
+https://github.com/user-attachments/assets/d0d3361b-ecee-4530-8657-a6eae24f73f4
+
+
 
 ### Açılış Sayfası
 ![Açılış](screenshots/acilis_sayfasi.png)
