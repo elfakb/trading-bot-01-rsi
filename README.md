@@ -48,13 +48,13 @@ streamlit run app/app.py
 ![Açılış](screenshots/acilis_sayfasi.png)
 
 ### Analiz Sonuçları
-![Analiz Sonuçları](screenshots/analiz_sonuclari.png)
+![Analiz Sonuçları](screenshots/analiz_sonuçlari.png)
 
 ### Fiyat + Sinyal Grafiği
-![Fiyat Sinyal](screenshots/fiyat_sinyal_grafigi.png)
+![Fiyat Sinyal](screenshots/fiyat_sinyal_grafiği.png)
 
 ### RSI Grafiği
-![RSI](screenshots/rsi_grafigi.png)
+![RSI](screenshots/rsi_grafiği.png)
 
 ### 20 Günlük Analiz
 ![20 Günlük Analiz](screenshots/20_gunluk_analiz.png)
