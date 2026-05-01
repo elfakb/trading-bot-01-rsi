@@ -32,7 +32,9 @@ streamlit run app/app.py
 ## Demo
 
 
-https://github.com/user-attachments/assets/d0d3361b-ecee-4530-8657-a6eae24f73f4
+https://github.com/user-attachments/assets/41d8123a-c309-441c-ae05-ee8a84a7f2d2
+
+
 
 
 
