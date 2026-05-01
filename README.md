@@ -1,4 +1,3 @@
-```markdown
 # RSI Signal Bot
 
 Basit RSI (Relative Strength Index) indikatörü kullanarak 
@@ -25,7 +24,6 @@ Python · yfinance · Pandas · Plotly · Streamlit
 
 ## 📁 Proje Yapısı
 
-```
 trading-bot-01-rsi/
 ├── src/
 │   ├── data.py          ← veri çekme
@@ -35,14 +33,14 @@ trading-bot-01-rsi/
 │   └── app.py           ← Streamlit dashboard
 ├── requirements.txt
 └── README.md
-```
+
 
 ## Nasıl Çalıştırılır?
 
-```bash
+
 pip install -r requirements.txt
 streamlit run app/app.py
-```
+
 
 ## Demo
 
